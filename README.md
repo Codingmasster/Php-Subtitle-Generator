@@ -34,10 +34,7 @@ This PHP application allows you to transcribe audio files using an API. It takes
     ?>
     ```
 
-4. **Set up your web server:**
 
-    - If you're using Apache, make sure the `public` directory is the web root.
-    - If you're using Nginx, configure the server block to point to the `public` directory.
 
 ## Usage
 
