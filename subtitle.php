@@ -41,7 +41,7 @@
 
                 if (move_uploaded_file($fileTmpPath, $dest_path)) {
                     
-                    $api_key = "e4e35d65ab3147f7bcf9e46cf87012bc";
+                    $api_key = "YOUR_API_KEY";
                     $result = convertToSubtitles($dest_path, $api_key);
 
                     // Print the raw response for debugging
